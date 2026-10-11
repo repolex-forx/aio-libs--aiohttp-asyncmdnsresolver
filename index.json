@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiohttp-asyncmdnsresolver",
+  "versions": [
+    {
+      "commit": "238407713ace89a2efe4a50aafb2067cc77f5de4",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:54:57.116712+00:00"
+    }
+  ]
+}
