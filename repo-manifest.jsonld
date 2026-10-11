@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohttp-asyncmdnsresolver/commit/238407713ace89a2efe4a50aafb2067cc77f5de4",
       "git:hexsha": "238407713ace89a2efe4a50aafb2067cc77f5de4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T04:54:57.116266+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aiohttp-asyncmdnsresolver/commit/3c9c94a0bdcd7559c8fed9600787d7ed4d2f98c1",
